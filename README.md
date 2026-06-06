@@ -1,24 +1,21 @@
 <img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/profile_photo" width="100" align="left"/>
-
 &nbsp;&nbsp; **Bharat Dhuva**
-
 &nbsp;&nbsp; Curious Builder
-
 <br clear="left"/>
-
 &nbsp; Vadodara, India &nbsp;&nbsp;&nbsp; &nbsp; bharatdhuva27@gmail.com
 
 Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.
 Open — Internship | Freelance | Remote | Full-Time Roles.
+
 <p align="left">
-  <a href="https://twitter.com/bharatdhuva"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/></a>&nbsp;&nbsp;
- <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,postgres,redis,docker,git,github,postman,figma&theme=light&perline=14" />
-  <a href="https://github.com/bharatdhuva"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="mailto:bharatdhuva27@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"/></a>&nbsp;&nbsp;
-  <a href="https://bharatdhuva.vercel.app"><img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Portfolio"/></a>
+  <a href="https://twitter.com/bharatdhuva"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="28" alt="X"/></a>&nbsp;
+  <a href="https://linkedin.com/in/bharatdhuva27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/bharatdhuva"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" alt="GitHub"/></a>&nbsp;
+  <a href="mailto:bharatdhuva27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" alt="Gmail"/></a>&nbsp;
+  <a href="https://bharatdhuva.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" height="28" alt="Portfolio"/></a>
 </p>
 
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,postgres,redis,docker,git,github,postman,figma&theme=light&perline=14" />
 ---
 
 ### TECH STACK
