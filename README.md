@@ -10,12 +10,14 @@
 
 Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.
 Open — Internship | Freelance | Remote | Full-Time Roles.
+<p align="left">
+  <a href="https://twitter.com/bharatdhuva"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/></a>&nbsp;&nbsp;
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,postgres,redis,docker,git,github,postman,figma&theme=light&perline=14" />
+  <a href="https://github.com/bharatdhuva"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="mailto:bharatdhuva27@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"/></a>&nbsp;&nbsp;
+  <a href="https://bharatdhuva.vercel.app"><img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Portfolio"/></a>
+</p>
 
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/bharatdhuva)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharatdhuva27)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharatdhuva)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bharatdhuva27@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://bharatdhuva.vercel.app)
 
 ---
 
