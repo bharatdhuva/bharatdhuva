@@ -93,24 +93,6 @@ GTU Government Polytechnic, Jamnagar · *CGPA: 7.11*
 
 📖 &nbsp;*Currently reading:* **Designing Data-Intensive Applications**
 
----
-
-### GITHUB STATS
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=bharatdhuva&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=555555&count_private=true" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatdhuva&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatdhuva&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=555555&stroke=eeeeee" />
-</div>
-
----
-
-<div align="center">
-
 *"The only impossible journey is the one you never begin. Start building your digital presence today."*
 &nbsp;— Tony Robbins
 
