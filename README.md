@@ -1,20 +1,31 @@
-<img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/profile_photo" width="80" align="left" style="border-radius:50%"/>
-
-## Bharat Dhuva
-**Curious Builder**
-
-<br clear="left"/>
-
-`LOCATION` &nbsp; Vadodara, India &nbsp;&nbsp;&nbsp; `EMAIL` &nbsp; bharatdhuva27@gmail.com
-
-Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.
-Open — Internship | Freelance | Remote | Full-Time Roles.
-
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/bharatdhuva)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharatdhuva27)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharatdhuva)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bharatdhuva27@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://bharatdhuva.vercel.app)
+<table>
+  <tr>
+    <td width="120" valign="top">
+      <img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/profile_photo" width="100"/>
+    </td>
+    <td valign="top">
+      <h2>Bharat Dhuva</h2>
+      <p>Curious Builder</p>
+      <p>
+        <code>LOCATION</code> &nbsp;Vadodara, India &nbsp;&nbsp;
+        <code>EMAIL</code> &nbsp;bharatdhuva27@gmail.com
+      </p>
+      <p>Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.<br/>
+      Open — Internship | Freelance | Remote | Full-Time Roles.</p>
+      <p>
+        <a href="https://twitter.com/bharatdhuva"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://linkedin.com/in/bharatdhuva27"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://github.com/bharatdhuva"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        &nbsp;
+        <a href="mailto:bharatdhuva27@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://bharatdhuva.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
