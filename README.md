@@ -6,7 +6,7 @@
 
 <br clear="left"/>
 
-`LOCATION` &nbsp; Vadodara, India &nbsp;&nbsp;&nbsp; `EMAIL` &nbsp; bharatdhuva27@gmail.com
+&nbsp; Vadodara, India &nbsp;&nbsp;&nbsp; &nbsp; bharatdhuva27@gmail.com
 
 Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.
 Open — Internship | Freelance | Remote | Full-Time Roles.
