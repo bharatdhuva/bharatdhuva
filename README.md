@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/bharatdhuva" width="60" align="left" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/profile_photo.jpg" width="80" align="left" style="border-radius:50%"/>
 
 ## Bharat Dhuva
 **Curious Builder**
