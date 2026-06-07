@@ -1,14 +1,16 @@
 <img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/profile_photo" width="100" align="left"/>
-&nbsp;&nbsp; **Bharat Dhuva**
-&nbsp;&nbsp; Curious Builder
+<strong>Bharat Dhuva</strong><br/>
+Curious Builder
 <br clear="left"/>
-&nbsp; Vadodara, India &nbsp;&nbsp;&nbsp; &nbsp; bharatdhuva27@gmail.com
+
+📍 Vadodara, India &nbsp;&nbsp;&nbsp;&nbsp; ✉️ bharatdhuva27@gmail.com
 
 Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.
+
 Open — Internship | Freelance | Remote | Full-Time Roles.
 
 <p align="left">
-  <a href="https://twitter.com/bharatdhuva"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="28" alt="X"/></a>&nbsp;
+  <a href="https://twitter.com/mrcrotes"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="28" alt="X"/></a>&nbsp;
   <a href="https://linkedin.com/in/bharatdhuva27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/bharatdhuva"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" alt="GitHub"/></a>&nbsp;
   <a href="mailto:bharatdhuva27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" alt="Gmail"/></a>&nbsp;
