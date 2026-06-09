@@ -17,7 +17,6 @@ Open — Internship | Freelance | Remote | Full-Time Roles.
   <a href="https://bharatdhuva.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" height="28" alt="Portfolio"/></a>
 </p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,postgres,redis,docker,git,github,postman,figma&theme=light&perline=14" />
 ---
 
 ### TECH STACK
