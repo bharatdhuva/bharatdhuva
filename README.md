@@ -5,9 +5,8 @@ Curious Builder
 
 📍 Vadodara, India &nbsp;&nbsp;&nbsp;&nbsp; ✉️ bharatdhuva27@gmail.com
 
-Full-stack developer. Node.js · Express · Redis · Cloud.
-
-Open — Internship | Freelance | Remote | Full-Time Roles.
+I build quiet revolutions in code. Backend-first full-stack engineer crafting scalable worlds with React.js, Node.js, Express and Modern Tech Stack.<br>
+Open to new chapters — Internship | Remote | Full-time.
 
 <p align="left">
   <a href="https://twitter.com/mrcrotes"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="28" alt="X"/></a>&nbsp;
