@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/prf_photo" width="100" align="left"/>
+<img src="https://raw.githubusercontent.com/bharatdhuva/bharatdhuva/main/“Peace Feels Better in Nature 🍃”.jpg" width="100" align="left"/>
 <strong>Bharat Dhuva</strong><br/>
 Curious Builder
 <br clear="left"/>
