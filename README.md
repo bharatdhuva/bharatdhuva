@@ -5,7 +5,7 @@ Curious Builder
 
 📍 Vadodara, India &nbsp;&nbsp;&nbsp;&nbsp; ✉️ bharatdhuva27@gmail.com
 
-Full-stack developer with a backend-first mindset. Node.js · Express · Redis · Cloud.
+Full-stack developer. Node.js · Express · Redis · Cloud.
 
 Open — Internship | Freelance | Remote | Full-Time Roles.
 
