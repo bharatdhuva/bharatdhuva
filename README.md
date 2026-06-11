@@ -19,7 +19,7 @@ Open — Internship | Freelance | Remote | Full-Time Roles.
 
 ---
 
-### TECH STACK
+### Languagues and Tools
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,postgres,redis,docker,git,github,postman,figma&theme=light&perline=14" />
 
