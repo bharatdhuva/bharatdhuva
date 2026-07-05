@@ -23,40 +23,48 @@ Open to new chapters — Internship | Remote | Full-time.
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,postgres,redis,docker,git,github,postman,figma&theme=light&perline=14" />
 
 ---
-
 ### FEATURED PROJECTS
 
-**[InterviewOS](https://github.com/bharatdhuva/Interview-OS)**
-
-Architected a scalable real-time collaborative interview platform featuring WebRTC P2P video, Y.js CRDT collaborative editor, shared whiteboard, room-scoped Socket.IO solution, Monaco Editor, and a sandboxed Judge0 API code execution engine across 7 languages.
-
-![](https://img.shields.io/badge/-WebRTC-333?style=flat-square)
-![](https://img.shields.io/badge/-Socket.IO-333?style=flat-square)
-![](https://img.shields.io/badge/-Y.js-333?style=flat-square)
-![](https://img.shields.io/badge/-Judge0-333?style=flat-square)
-![](https://img.shields.io/badge/-GPT--4-333?style=flat-square)
-
+**[Outly](https://github.com/bharatdhuva/Outly)** &nbsp;·&nbsp; [🔗 Live](https://www.outly.online/)
 <br/>
-
-**[Outly](https://github.com/bharatdhuva/Outly)**
-
-Built an end-to-end LLM pipeline with GPT-4 that researches target companies from CSV and generates unique cold emails, auto-saved as Gmail drafts via Gmail API + OAuth 2.0. Implemented Bull + Redis distributed job queue for rate-limiting.
-
-![](https://img.shields.io/badge/-GPT--4-333?style=flat-square)
-![](https://img.shields.io/badge/-Redis-333?style=flat-square)
-![](https://img.shields.io/badge/-BullMQ-333?style=flat-square)
-![](https://img.shields.io/badge/-OAuth2-333?style=flat-square)
-
+Built a full-stack AI-powered job search automation SaaS with multi-user auth, ATS keyword scoring, AI resume tailoring, cold email generation, and a Kanban application tracker. Integrated Razorpay payments with free/pro tier system. Deployed on Vercel + Render with MongoDB Atlas.
 <br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/razorpay-%230C2451.svg?style=flat-square&logo=razorpay&logoColor=%2302042B)
+![OpenAI](https://img.shields.io/badge/GPT--4-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+<br/><br/>
+
+**[InterviewOS](https://github.com/bharatdhuva/Interview-OS)** &nbsp;·&nbsp; [🔗 Live](https://interviewos-bharatdhuva.vercel.app/)
+<br/>
+Engineered a real-time technical interview platform with WebRTC P2P video, Y.js CRDT collaborative code editor, shared Excalidraw whiteboard, and Judge0 sandboxed code execution across 7 languages. Room-scoped Socket.IO isolation with active speaker detection.
+<br/>
+![WebRTC](https://img.shields.io/badge/webrtc-%23333333.svg?style=flat-square&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
+![Yjs](https://img.shields.io/badge/Y.js-%23F9A03C.svg?style=flat-square&logo=yjs&logoColor=white)
+![Judge0](https://img.shields.io/badge/Judge0-%2300599C.svg?style=flat-square&logo=codeforces&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-%236965DB.svg?style=flat-square&logo=excalidraw&logoColor=white)
+<br/><br/>
+
+**[Khetse](https://github.com/bharatdhuva/Khetse)** &nbsp;·&nbsp; [🔗 Live](https://khetse-fresh.vercel.app/)
+<br/>
+Direct-to-consumer farm-fresh delivery platform connecting local farmers directly with urban consumers for fresh vegetables and dairy products. Built with a React Native mobile application and a robust Node.js/Express backend.
+<br/>
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+<br/><br/>
 
 **[Bookstage](https://github.com/bharatdhuva/Bookstage)**
-
-Built an end-to-end booking platform featuring movie/event/sports discovery, seat selection, and QR ticket confirmation with PDF download. Engineered a custom seat locking engine with 5-minute expiry and auto-cleanup, and a modular REST API across 10+ modules with JWT authentication and Dockerized deployment.
-
-![](https://img.shields.io/badge/-.NET-333?style=flat-square)
-![](https://img.shields.io/badge/-Docker-333?style=flat-square)
-![](https://img.shields.io/badge/-JWT-333?style=flat-square)
-![](https://img.shields.io/badge/-MongoDB-333?style=flat-square)
+<br/>
+Built an end-to-end booking platform featuring movie/event/sports discovery, seat selection, and QR ticket confirmation with PDF download. Engineered a custom seat locking engine with a 5-minute expiry and auto-cleanup, and a modular REST API across 10+ modules with JWT authentication and Dockerized deployment.
+<br/>
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
